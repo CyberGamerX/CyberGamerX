@@ -47,7 +47,7 @@ This is a personal project primarily for improving my technical programming as w
 
 ## OuroTorus
 ### Links
-- Github: <https://cybergamerx.itch.io/ourotorus>
+- Github: <https://github.com/Blueberry-Jam-Games/GMTK-2025>
 - Itch: <https://cybergamerx.itch.io/ourotorus>
 
 ### About
@@ -74,7 +74,7 @@ All assets and character animations were done during the Jam which took place ov
 | :--- | :--- | :--- | :--- |
 | [Travelling Merchant](https://github.com/Blueberry-Jam-Games/Travelling-Merchant) | 2026 | Personal Project | No Build Available |
 | [Corperate Efficiency](https://github.com/Blueberry-Jam-Games/GMTK-Game-Jam-2026) | 2026 | GMTK 2026 | [itch](https://aurea01.itch.io/corporate-efficiency) |
-| [Social Masquerade](https://github.com/Blueberry-Jam-Games/GMTK-Game-Jam-2026) | 2026 | GGJ 2026 | [Itch](https://zenith08.itch.io/social-masquerade) |
+| [Social Masquerade](https://github.com/Blueberry-Jam-Games/GGJ-2026) | 2026 | GGJ 2026 | [Itch](https://zenith08.itch.io/social-masquerade) |
 | [OuroTorus](https://github.com/Blueberry-Jam-Games/GMTK-2025) | 2025 | GMTK 2025 | [itch](https://cybergamerx.itch.io/ourotorus) |
 | [Shadowcast](https://github.com/Blueberry-Jam-Games/GMTK2024) | 2024 | GMTK 2024 | [itch](https://zenith08.itch.io/shadowcast) |
 | Family Train Conductor | 2023 - 2024 | Blueberry Jam Project | Contact for Access |

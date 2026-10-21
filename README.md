@@ -68,14 +68,15 @@ The game sees the player completing a 3d platformer as well as a 2d platformer c
 
 All assets and character animations were done during the Jam which took place over 96 hours.
 
-# Extended Project List
+# Chronological Project List
 
-| Repository | Year | Project Type | Playable Version |
+| Project Name and Repository | Year | Project Type | Playable Version |
 | :--- | :--- | :--- | :--- |
 | [Travelling Merchant](https://github.com/Blueberry-Jam-Games/Travelling-Merchant) | 2026 | Personal Project | No Build Available |
-| [Social Masquerade](https://github.com/Blueberry-Jam-Games/GMTK-Game-Jam-2026) | 2026 | GMTK 2026 | [Itch](https://zenith08.itch.io/social-masquerade) |
+| [Corperate Efficiency](https://github.com/Blueberry-Jam-Games/GMTK-Game-Jam-2026) | 2026 | GMTK 2026 | [itch](https://aurea01.itch.io/corporate-efficiency) |
+| [Social Masquerade](https://github.com/Blueberry-Jam-Games/GMTK-Game-Jam-2026) | 2026 | GGJ 2026 | [Itch](https://zenith08.itch.io/social-masquerade) |
 | [OuroTorus](https://github.com/Blueberry-Jam-Games/GMTK-2025) | 2025 | GMTK 2025 | [itch](https://cybergamerx.itch.io/ourotorus) |
-| [Shadowcast](https://github.com/Blueberry-Jam-Games/GMTK2024) | 2024 | GMTK | [itch](https://zenith08.itch.io/shadowcast) |
+| [Shadowcast](https://github.com/Blueberry-Jam-Games/GMTK2024) | 2024 | GMTK 2024 | [itch](https://zenith08.itch.io/shadowcast) |
 | Family Train Conductor | 2023 - 2024 | Blueberry Jam Project | Contact for Access |
 | [Cosmic Collission](https://github.com/Blueberry-Jam-Games/RollForControl) | 2023 | GGJ 2023 | [itch](https://zenith08.itch.io/cosmic-collision) |
 | [Cookie Crusade](https://github.com/Blueberry-Jam-Games/GMTK-Candy-Crusher) | 2022 | GMTK 2022 | [itch](https://zenith08.itch.io/cookie-crusade) |

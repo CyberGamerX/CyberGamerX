@@ -1,11 +1,23 @@
 # Personal Overview
 I am a Mechatronic Systems Engineering student, studying at Simon Fraser University as well as a graduate of the Television and Video Production program and the British Columbia Institute of Technology.
 
-I have been developing games for 7 years, primarily in the Unity Game Engine. I primarily participate in Game Jams with Blueberry Jam Games, though I have also worked on longer term projects such as [Travelling Merchant](https://github.com/Blueberry-Jam-Games/Travelling-Merchant) (*Working Title*).
+I have been developing games and programming for 7 years, primarily in the Unity Game Engine. I primarily participate in Game Jams with Blueberry Jam Games, though I have also worked on longer term projects such as [Travelling Merchant](https://github.com/Blueberry-Jam-Games/Travelling-Merchant) (*Working Title*).
 
-We have published several games from game jams which can be found on my Itch.io page linked below.
+Please note that the projects listed below are not exaustive. Smaller projects are present within my github account and several projects do not have repositories at this time.
+
+I, along with Blueberry Jam Games have published several projects from game jams on [Itch](https://cybergamerx.itch.io/) linked below.
 
 I primarily work as a programmer and technical artist on projects, though I have been the project lead during a few jams. Of particular note would be GMTK 2025 where we entered the game [OuroTorus](https://github.com/Blueberry-Jam-Games/GMTK-2025) in which I was the lead programmer and team lead.
+
+### Programming Languages
+- C
+- C#
+- CPP
+- HLSL
+- Python
+- Java
+- Lua
+- Extended Script - *Adobe After Effects Scripting Language*
 
 ### Links
 - Personal Github Account: <https://github.com/CyberGamerX/>
@@ -14,8 +26,13 @@ I primarily work as a programmer and technical artist on projects, though I have
 
 # Repository Highlights
 ## Travelling Merchant - *Working Title*
-### Link
+### Links
 - Github: <https://github.com/Blueberry-Jam-Games/Travelling-Merchant>
+
+### Programming Languages
+- C#
+- HLSL
+- HPC#
 
 ### About
 Travelling Merchant is a solo project that I am currently developing in Unity utilizing ECS and Unity DOTS (*Data Oriented Technology Stack*) to provide as much performance optimization as possible.
@@ -29,7 +46,7 @@ Currently, the procedural world is in an early test stage with chunk generation 
 This is a personal project primarily for improving my technical programming as well as learning new skills such as ECS and Compute Shaders. In addition I am also working with learning Unitys Scriptable Rendering Pipeline in depth so that I can write my own shader pipelines in the future.
 
 ## OuroTorus
-### Link
+### Links
 - Github: <https://cybergamerx.itch.io/ourotorus>
 - Itch: <https://cybergamerx.itch.io/ourotorus>
 
@@ -40,7 +57,7 @@ This game is my most recent game project which I was the team lead for and one o
 
 ## Shadowcast
 
-### Link
+### Links
 - Github: <https://github.com/Blueberry-Jam-Games/GMTK2024>
 - Itch: <https://zenith08.itch.io/shadowcast>
 
@@ -51,7 +68,7 @@ The game sees the player completing a 3d platformer as well as a 2d platformer c
 
 All assets and character animations were done during the Jam which took place over 96 hours.
 
-# Full Project List
+# Extended Project List
 
 | Repository | Year | Project Type | Playable Version |
 | :--- | :--- | :--- | :--- |

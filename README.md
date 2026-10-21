@@ -29,13 +29,8 @@ I primarily work as a programmer and technical artist on projects, though I have
 ### Links
 - Github: <https://github.com/Blueberry-Jam-Games/Travelling-Merchant>
 
-### Programming Languages
-- C#
-- HLSL
-- HPC#
-
 ### About
-Travelling Merchant is a solo project that I am currently developing in Unity utilizing ECS and Unity DOTS (*Data Oriented Technology Stack*) to provide as much performance optimization as possible.
+Travelling Merchant is a solo project that I am currently developing in Unity utilizing ECS, Unity DOTS (*Data Oriented Technology Stack*) to and compute shaders to provide as much performance optimization as possible.
 
 The game will see a player playing as a travelling trader moving from town to town buying and selling wares. Unlike other games of this genre however, every item is physical and must be somehow carried by the player. This can be a bag, on horseback or carriage, but regardless all items are physicsal.
 
@@ -43,7 +38,9 @@ The map the player traverses is procedural and seed based allowing for replayabi
 
 Currently, the procedural world is in an early test stage with chunk generation fully function and a linear path being generated for the player to follow. The world is created using the Marching Cubes algorithm run on Compute Shaders and individual chunk placement is handled by several ECS Systems and components. The game has maintained 60fps on a GTX 1060 and 6 core CPU demonstrating the current optimizations present.
 
-This is a personal project primarily for improving my technical programming as well as learning new skills such as ECS and Compute Shaders. In addition I am also working with learning Unitys Scriptable Rendering Pipeline in depth so that I can write my own shader pipelines in the future.
+This is a personal project targeted at improving my performance sensitive programming as well as learning new skills such as ECS and Compute Shaders. In addition I am also working on learning Unity's Scriptable Rendering Pipeline in depth so that I can write my own post processing shaders in the future.
+
+An early version of this can be seen with a variation on the Kuwahara Filter (*Oil Paint Filter*) that is able to edge detect for stable visuals while moving and an outline shader that utilizes a 3d vertex shader to create misaligned outlines that are stable while moving. The intent of this is to create an oil painted look on distant terrain. 
 
 ## OuroTorus
 ### Links

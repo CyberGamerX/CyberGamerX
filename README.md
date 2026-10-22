@@ -35,6 +35,12 @@ This is a personal project targeted at improving my performance sensitive progra
 
 An early version of this can be seen with a variation on the Kuwahara Filter (*Oil Paint Filter*) that is able to edge detect for stable visuals while moving and an outline shader that utilizes a 3d vertex shader to create misaligned outlines that are stable while moving. The intent of this is to create an oil painted look on distant terrain. 
 
+#### Gameplay Photo
+![Gameplay Photo](Travelling%20Merchant%201.png)
+
+#### Chunk Generation Debug View
+![Chunk Generation](Travelling%20Merchant%202.png)
+
 ### Links
 - Github: <https://github.com/Blueberry-Jam-Games/Travelling-Merchant>
 
@@ -43,6 +49,12 @@ An early version of this can be seen with a variation on the Kuwahara Filter (*O
 OuroTorus was made for the 2025 GMTK Game Jam alongside a team of artists, programmers and writers under the brand of Blueberry Jam Games. All assets and programming were done during the jam which lasted for 96 hours.
 
 This game is my most recent game project which I was the team lead for and one of the more technically complex ones we have executed. All movement is handled with polar coordinates and all models around the Torus, or Donut are deformed to always line up correctly solving the largest issue with level design on a torus.
+
+#### Title Screen
+![Ouro Torus Title Screen](OuroTorus%201.png)
+
+#### Gameplay Photo
+![Ouro Torus Sample Gameplay](OuroTorus%202.png)
 
 ### Links
 - Github: <https://github.com/Blueberry-Jam-Games/GMTK-2025>

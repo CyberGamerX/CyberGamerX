@@ -90,7 +90,7 @@ This project has been paused since 2024 until a solution to local position track
 | [Corperate Efficiency](https://github.com/Blueberry-Jam-Games/GMTK-Game-Jam-2026) | 2026 | GMTK 2026 | [itch](https://aurea01.itch.io/corporate-efficiency) |
 | [Social Masquerade](https://github.com/Blueberry-Jam-Games/GGJ-2026) | 2026 | GGJ 2026 | [Itch](https://zenith08.itch.io/social-masquerade) |
 | [OuroTorus](https://github.com/Blueberry-Jam-Games/GMTK-2025) | 2025 | GMTK 2025 | [itch](https://cybergamerx.itch.io/ourotorus) |
-| [Camera Tracker Unity](https://github.com/CyberGamerX/Camera-Tracker-Unity) <br> [Camera Tracker Arduino](https://github.com/CyberGamerX/Camera-Tracker-Arduino) | 2024 | Personal | In Editor <br> *Prototype Only* |
+| [Camera Tracker Unity](https://github.com/CyberGamerX/Camera-Tracker-Unity) <br> [Camera Tracker Arduino](https://github.com/CyberGamerX/Camera-Tracker-Arduino) | 2024 | Personal Project | In Editor <br> *Prototype Only* |
 | [Shadowcast](https://github.com/Blueberry-Jam-Games/GMTK2024) | 2024 | GMTK 2024 | [itch](https://zenith08.itch.io/shadowcast) |
 | Family Train Conductor | 2023 - 2024 | Blueberry Jam Project | Contact for Access |
 | [Cosmic Collission](https://github.com/Blueberry-Jam-Games/RollForControl) | 2023 | GGJ 2023 | [itch](https://zenith08.itch.io/cosmic-collision) |
